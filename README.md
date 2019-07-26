@@ -137,7 +137,7 @@ It is 10 milliseconds by default, meaning that the programs waits 10ms before se
   
 ## About
 
-Original idea from the paper _Covert Channels in IPv6_  by Norka B. Lucena, Grzegorz Lewandowski 
+Original idea from the paper _[Covert Channels in IPv6](https://link.springer.com/chapter/10.1007/11767831_10)_  by Norka B. Lucena, Grzegorz Lewandowski 
 and Steve J. Chapin from Syracuse University.
 
 For any question or bug report, feel free to [open an issue](https://github.com/christophetd/ipv6teal/issues/new) 
